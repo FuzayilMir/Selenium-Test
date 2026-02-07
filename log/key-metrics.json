@@ -1,0 +1,32 @@
+[
+    {
+        "duration": 1521.030029296875,
+        "name": "sdk:sendFunnelTestCompleted",
+        "startTime": 1770467716647.0056,
+        "worker": "2128-1564",
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": false
+    },
+    {
+        "duration": 1526.848876953125,
+        "name": "sdk:exit-handler",
+        "startTime": 1770467716642.8706,
+        "worker": "10344-1564",
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": false
+    }
+]

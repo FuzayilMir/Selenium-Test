@@ -1,0 +1,60 @@
+Detected page language: es-ES
+The website declares Spanish as its language.
+Clicked consent button.
+
+Found 15 articles. Fetching first 5...
+
+
+Opening Article 1: https://elpais.com/opinion/2026-02-07/el-mensaje-del-pp-a-las-mujeres.html
+Article 1 Title: El mensaje del PP a las mujeres
+Content: La gestión de un presunto caso de acoso interno desacredita al partido en el ámbito de la protección frente al machismo
+
+Image saved: cover_images/article_1.jpg
+
+
+Opening Article 2: https://elpais.com/opinion/2026-02-07/cuba-ante-el-abismo-energetico.html
+Article 2 Title: Cuba ante el abismo energético
+Content: La oferta de diálogo con Estados Unidos lanzada por el presidente Díaz Canel debe traducirse en pasos concretos y urgentes hacia la democracia
+
+Image saved: cover_images/article_2.jpg
+
+
+Opening Article 3: https://elpais.com/opinion/2026-02-07/hay-que-desescalar.html
+Article 3 Title: Hay que desescalar
+Content: Cualquiera con un mínimo sentido de la moral debería poder identificar las aberraciones del presente y oponerse a ellas con la voluntad que nos queda
+
+Image saved: cover_images/article_3.jpg
+
+
+Opening Article 4: https://elpais.com/opinion/2026-02-07/una-senda-escondida.html
+Article 4 Title: Una senda escondida
+Content: En el acto de escribir puede haber amargura, angustia y desánimo; en la lectura, que yo sepa, solo hay felicidad
+
+Image saved: cover_images/article_4.jpg
+
+
+Opening Article 5: https://elpais.com/opinion/2026-02-02/hermanas.html
+Article 5 Title: ‘Hermanas’
+No paragraph content found.
+
+Image saved: cover_images/article_5.jpg
+
+Original Title (ES) El mensaje del PP a las mujeres
+Translated Title (EN): The PP's message to women
+
+Original Title (ES) Cuba ante el abismo energético
+Translated Title (EN): Cuba facing the energy abyss
+
+Original Title (ES) Hay que desescalar
+Translated Title (EN): We have to deescalate
+
+Original Title (ES) Una senda escondida
+Translated Title (EN): A hidden path
+
+Original Title (ES) ‘Hermanas’
+Translated Title (EN): 'Sisters'
+
+
+=== Repeated Words in Translated Headers ===
+No words repeated more than twice.
+Test finished and browser closed.

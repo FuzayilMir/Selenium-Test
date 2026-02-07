@@ -1,0 +1,49 @@
+userName: fuzayil_QOkreH
+accessKey: Gwc4yxtagaPvBGpMt7bH
+
+platforms:
+  - os: Windows
+    osVersion: 11
+    browser: Chrome
+    browserVersion: latest
+  - browserName: chrome
+    osVersion: 14.0
+    deviceName: Samsung Galaxy Tab A9 Plus
+  - browserName: Firefox
+    os: OS X
+    osVersion: Ventura
+    browserVersion: latest
+  - browserName: Edge
+    os: Windows
+    osVersion: 10
+    browserVersion: 137.0
+  - browserName: chrome
+    osVersion: 15.0
+    deviceName: Samsung Galaxy Tab S10 Plus
+
+
+browserstackLocal: false
+
+buildName: Browserstack-test-build
+projectName: Browserstack-test
+buildIdentifier: ${BUILD_NUMBER}
+
+parallelsPerPlatform: 1
+
+source: python-browserstack:sample-sdk:v1.0
+
+networkLogs: true
+# geoLocation: IN
+debug: true
+
+consoleLogs: errors 
+  
+interactiveDebugging: true
+
+
+
+
+
+
+
+
