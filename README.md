@@ -19,6 +19,5 @@ This project automates scraping articles from the Opinion section of *El País* 
 
 ## How to Run
 ```bash
-venv\Scripts\Activate
 pip install -r requirements.txt
 browserstack-sdk python3 main.py
